@@ -1,0 +1,33 @@
+_repo: The-Gap-in-the-Fence_21547
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Charlton, Watson
+    gutenberg_agent_id: '26282'
+    url: http://www.gutenberg.org/2009/agents/26282
+covers:
+- cover_type: archival
+  image_path: 21547-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Turle, Frederica J.
+    gutenberg_agent_id: '24779'
+    url: http://www.gutenberg.org/2009/agents/24779
+description: ''
+gutenberg_issued: '2007-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: The Gap in the Fence
+url: http://www.gutenberg.org/ebooks/21547
